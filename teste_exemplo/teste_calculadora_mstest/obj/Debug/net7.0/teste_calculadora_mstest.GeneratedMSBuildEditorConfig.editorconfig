@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = teste_calculadora_mstest
-build_property.ProjectDir = c:\Users\mauri\Desktop\Curso Back-End\Testes BackEnd\teste_exemplo\teste_calculadora_mstest\
+build_property.ProjectDir = c:\Users\mauri\Desktop\Curso Back-End\Testes BackEnd\testes-backend-csharp\teste_exemplo\teste_calculadora_mstest\
